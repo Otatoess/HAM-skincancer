@@ -1,0 +1,32 @@
+inceptionv3(v2)(importance grading and increased image count through augmentation ):
+
+F1 Score: 0.8992 
+Precision: 0.9234
+Recall: 0.8932
+
+Per-class Metrics:
+akiec:
+  F1 Score: 0.9710
+  Precision: 0.9710
+  Recall: 0.9710
+bcc:
+  F1 Score: 0.9787
+  Precision: 0.9684
+  Recall: 0.9892
+bkl:
+  F1 Score: 0.8673
+  Precision: 0.7906
+  Recall: 0.9605
+df:
+  F1 Score: 0.9032
+  Precision: 0.8235
+  Recall: 1.0000
+mel:
+  F1 Score: 0.7526
+  Precision: 0.6152
+  Recall: 0.8543
+vasc:
+  F1 Score: 0.9545
+  Precision: 0.9130
+  Recall: 1.0000
+
