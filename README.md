@@ -7,7 +7,7 @@ This repository contains a deep learning model for skin cancer classification us
 
 The project involves classifying skin lesions into seven different categories using the HAM10000 dataset. The dataset is severely/highly imbalanced and therefore balanced using data augmentation techniques and class weighting to handle class imbalances effectively.
 
-### Model Performance
+### Model Performance (val)
 
 - **F1 Score:** 0.8992
 - **Precision:** 0.9234
