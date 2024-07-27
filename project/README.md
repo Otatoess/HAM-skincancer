@@ -1,5 +1,5 @@
 ```markdown
-Skin Cancer Classification with InceptionV3
+## Skin Cancer Classification with InceptionV3
 
 This repository contains a deep learning model for skin cancer classification using the InceptionV3 architecture. The model was trained on the HAM10000 dataset and is designed with computational efficiency in mind. It was originally developed as a high school project and is optimized to run on a CPU.
 
